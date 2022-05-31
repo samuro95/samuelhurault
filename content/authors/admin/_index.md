@@ -18,7 +18,6 @@ bio: Mathematics, Computer Vision, Machine Learning
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Computer Vision
   - Machine Learning 
   - Optimization
@@ -26,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MRes MVA in Artificial Intelligence.
+      institution: Université Paris-Saclay, France
+      year: 2019
+    - course: BSc and MRes in Mathematics
+      institution: Ecole Normale Superieure Paris-Saclay, France
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
