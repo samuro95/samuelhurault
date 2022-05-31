@@ -28,9 +28,12 @@ education:
     - course: MRes MVA in Artificial Intelligence.
       institution: Université Paris-Saclay, France
       year: 2019
-    - course: BSc and MRes in Mathematics
+    - course: MRes in Applied Mathematics
       institution: Ecole Normale Superieure Paris-Saclay, France
       year: 2018
+    - course: BSc in Mathematics
+      institution: Ecole Normale Superieure Paris-Saclay, France
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
