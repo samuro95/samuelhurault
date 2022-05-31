@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MRes MVA in Artificial Intelligence.
+    - course: MRes MVA (Mathematics, Computer Vision, Machine Learning)
       institution: Université Paris-Saclay, France
       year: 2019
     - course: MRes in Applied Mathematics
