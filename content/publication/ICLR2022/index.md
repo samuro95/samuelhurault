@@ -11,8 +11,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  #- 'Equal contribution'
+  #- 'Equal contribution'
 
 date: '2021-10-07T00:00:00Z'
 doi: ''
@@ -45,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openreview.net/pdf?id=fPhKeld3Okz'
+url_code: 'https://github.com/samuro95/GSPnP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://iclr.cc/virtual/2022/poster/6192'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
