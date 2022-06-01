@@ -70,5 +70,7 @@ email: 'samuel.hurault@math.u-bordeaux.fr'
 highlight_name: true
 ---
 
+FRFRDFRDgdrtg
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
