@@ -46,8 +46,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://repositori.upf.edu/bitstream/handle/10230/47356/hurault_mmsports_self.pdf?sequence=1&isAllowed=y'
-url_code: 'https://github.com/samuro95/Self-Supervised-Small-Soccer-Player-Detection-Tracking'
+url_pdf: 'https://arxiv.org/pdf/2205.02146.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
