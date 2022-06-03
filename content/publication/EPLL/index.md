@@ -26,8 +26,8 @@ publishDate: '2018-12-23T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Image Processing On Line (2018)
-publication_short: IPOL (2018)
+publication: In *Image Processing On Line (2018)*
+publication_short: In *IPOL (2018)*
 
 abstract: The Expected Patch Log-Likelihood method, introduced by Zoran and Weiss, allows for whole
 image restoration using a patch-based prior (in the likelihood sense) for which a maximum
