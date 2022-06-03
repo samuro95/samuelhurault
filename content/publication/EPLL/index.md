@@ -29,13 +29,7 @@ publication_types: ['2']
 publication: In *Image Processing On Line (2018)*
 publication_short: In *IPOL (2018)*
 
-abstract: The Expected Patch Log-Likelihood method, introduced by Zoran and Weiss, allows for whole
-image restoration using a patch-based prior (in the likelihood sense) for which a maximum
-a-posteriori (MAP) estimate can be calculated. The prior used is a Gaussian mixture model
-whose parameters are learned from a dataset of natural images. This article presents a detailed
-implementation of the algorithm in the context of denoising of images contaminated with white
-additive Gaussian noise. In addition, two possible extensions of the algorithm to handle color
-images are compared.
+abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
