@@ -70,7 +70,6 @@ email: 'samuel.hurault@math.u-bordeaux.fr'
 highlight_name: true
 ---
 
-I am currently a Ph.D student at Université de Bordeaux co-supervised by Prof. Nicolas Papadakis and Dr. Arthur Leclaire. My research interests include image restoration, convex and nonconvex optimization and generative methods. Specifically, during
-the first years of my PhD I developed innovative plug-and-play image restoration algorithms with new convergence guarantees. 
+I am currently a Ph.D student at Université de Bordeaux co-supervised by Prof. Nicolas Papadakis and Dr. Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization, optimal transport. During the first 2 years of my PhD I used deep denoising priors to developed innovative image restoration algorithms with new convergence guarantees. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
