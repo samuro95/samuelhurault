@@ -25,8 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: samuel.hurault@math.u-bordeaux.  
-  phone:  (+33) 644841779
+  email: samuel.hurault at math.u-bordeaux.  
   address:
     street: 351 cours de la libération
     city: Talence
