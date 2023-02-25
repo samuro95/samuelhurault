@@ -6,7 +6,7 @@ title: 'A relaxed proximal gradient descent algorithm for convergent plug-and-pl
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Anthonin Chambolle
+  - Antonin Chambolle
   - Arthur Leclaire
   - Nicolas Papadakis
 
