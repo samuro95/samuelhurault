@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.ipol.im/pub/art/2018/242/article_lr.pdf'
-url_code: ''
+url_code: 'https://ipolcore.ipol.im/demo/clientApp/demo.html?id=242'
 url_dataset: ''
 url_poster: ''
 url_project: ''
