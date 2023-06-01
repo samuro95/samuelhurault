@@ -18,9 +18,10 @@ bio: Mathematics, Computer Vision, Machine Learning
 
 # Interests to show in About widget
 interests:
+  - Optimization
   - Computer Vision
   - Machine Learning 
-  - Optimization
+  - Signal Processing
 
 # Education to show in About widget
 education:
@@ -70,6 +71,6 @@ email: 'samuel.hurault@math.u-bordeaux.fr'
 highlight_name: true
 ---
 
-I am currently a Ph.D student at Université de Bordeaux co-supervised by Prof. Nicolas Papadakis and Dr. Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization, optimal transport. During the first 2 years of my PhD I used deep denoising priors to developed innovative image restoration algorithms with new convergence guarantees. 
+I am currently a Ph.D student at Université de Bordeaux co-supervised by Prof. Nicolas Papadakis and Dr. Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization. During the first 2 years of my PhD I used deep denoising priors to developed innovative image restoration algorithms with new convergence guarantees. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
