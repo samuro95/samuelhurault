@@ -26,8 +26,8 @@ publishDate: '2020-10-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: preprint
-publication_short: preprint
+publication: 3rd international workshop on multimedia content analysis in sports (2020)
+publication_short: ACM MMSports 2020
 
 abstract: In a soccer game, the information provided by detecting and tracking brings crucial clues to further analyze and understand some tactical aspects of the game, including individual and team actions. State-of-the-art tracking algorithms achieve impressive results in scenarios on which they have been trained for, but they fail in challenging ones such as soccer games. This is frequently due to the player small relative size and the similar appearance among players of the same team. Although a straightforward solution would be to retrain these models by using a more specific dataset, the lack of such publicly available annotated datasets entails searching for other effective solutions. In this work, we propose a self-supervised pipeline which is able to detect and track low-resolution soccer players under different recording conditions without any need of ground-truth data. Extensive quantitative and qualitative experimental …
 
