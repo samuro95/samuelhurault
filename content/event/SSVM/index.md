@@ -1,12 +1,12 @@
 ---
-title: Oral presentation at SSVM (2023)
+title: SSVM 2023
 
 event: Scale Space and Variational Methods in Computer Vision (2023)
 event_url: https://events.unibo.it/ssvm2023
 
 location: Sardaigna, Italy
 
-summary: A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser
+summary: Oral presentation *A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser*
 abstract: 
 
 # Talk start and end times.
