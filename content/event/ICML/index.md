@@ -12,7 +12,7 @@ abstract: "Plug-and-Play (PnP) methods solve ill-posed inverse problems through 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-23'
+date: '2022-07-21'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
