@@ -10,7 +10,6 @@ author_notes:
   - 
   - 
 
-
 event: Scale Space and Variational Methods in Computer Vision (2023)
 event_url: https://events.unibo.it/ssvm2023
 
