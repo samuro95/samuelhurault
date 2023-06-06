@@ -1,5 +1,5 @@
 ---
-title: Oral presentation at Scale Space and Variational Methods in Computer Vision (SSVM) (2023)
+title: Oral presentation at SSVM (2023)
 
 event: Scale Space and Variational Methods in Computer Vision (2023)
 event_url: https://events.unibo.it/ssvm2023
@@ -11,7 +11,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-23T15:00:00Z'
+date: '2023-05-23'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
