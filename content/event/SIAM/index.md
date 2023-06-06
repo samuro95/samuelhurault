@@ -1,15 +1,14 @@
 ---
-title: SSVM 2023 (Best PhD paper award)
+title: SIAM 2022 Conference on Imaging Science
 
-event: Scale Space and Variational Methods in Computer Vision (2023)
-event_url: https://events.unibo.it/ssvm2023
+event: SIAM 2022 Conference on Imaging Science
+event_url: https://evoq-eval.siam.org/conferences/cm/conference/is22
 
 location: Sardaigna, Italy
 
-summary: Oral presentation *A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser*
+summary: contributed talk *Gradient Step Denoiser for convergent Plug-and-Play*
 
-abstract: This paper presents a new convergent Plug-and-Play (PnP) algorithm. PnP methods are efficient iterative algorithms for solving image inverse problems formulated as the minimization of the sum of a data-fidelity term and a regularization term. PnP methods perform regularization by plugging a pre-trained denoiser in a proximal algorithm, such as Proximal Gradient Descent (PGD). To ensure convergence of PnP schemes, many works study specific parametrizations of deep denoisers. However, existing results require either unverifiable or suboptimal hypotheses on the denoiser, or assume restrictive conditions on the parameters of the inverse problem. Observing that these limitations can be due to the proximal algorithm in use, we study a relaxed version of the PGD algorithm for minimizing the sum of a convex function and a weakly convex one. When plugged with a relaxed proximal denoiser, we show that the proposed PnP-αPGD algorithm converges for a wider range of regularization parameters, thus allowing more accurate image restoration.
-
+abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-05-23'
@@ -27,8 +26,8 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'https://arxiv.org/pdf/2301.13731.pdf'
-url_slides: 'https://plmbox.math.cnrs.fr/lib/ed4934c0-7d8e-4b54-bac0-250fc0037f17/file/SSVM.pdf'
+url_pdf: 'https://arxiv.org/pdf/2110.03220.pdf'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
