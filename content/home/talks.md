@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - talks
+      - event
     tag: ''
     category: ''
     publication_type: ''
@@ -32,6 +32,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: Compact
+  view: compact
   columns: '2'
 ---
