@@ -25,7 +25,7 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'https://arxiv.org/pdf/2301.13731.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 url_poster: 'https://plmbox.math.cnrs.fr/smart-link/50aae7d4-ae45-4636-80a3-8de0b79b57ae/'

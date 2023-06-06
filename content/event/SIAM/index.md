@@ -26,8 +26,8 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'https://arxiv.org/pdf/2110.03220.pdf'
-url_slides: ''
+url_pdf: ''
+url_slides: 'https://plmbox.math.cnrs.fr/smart-link/420e59d9-48c1-4035-9c8d-85c8733b3923/'
 url_video: ''
 
 # Markdown Slides (optional).

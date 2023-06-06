@@ -27,7 +27,7 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'https://arxiv.org/pdf/2110.03220.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 

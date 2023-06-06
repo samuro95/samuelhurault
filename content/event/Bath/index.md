@@ -1,6 +1,5 @@
 ---
-title: Analytic and Geometric Approaches to Machine Learning (2022)
-
+title: Analytic and Geometric Approaches to Machine Learning
 event: Analytic and Geometric Approaches to Machine Learning (2022)
 event_url: https://bathicmsworkshop.github.io/
 
@@ -27,8 +26,8 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'https://arxiv.org/pdf/2110.03220.pdf'
-url_slides: ''
+url_pdf: ''
+url_slides: 'https://plmbox.math.cnrs.fr/smart-link/da737fd6-6e1e-49e3-abd4-35bd7dccedf6/'
 url_video: ''
 
 # Markdown Slides (optional).
