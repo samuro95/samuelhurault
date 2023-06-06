@@ -28,8 +28,8 @@ publishDate: '2022-04-05T00:00:00Z'
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: preprint
-publication_short: preprint
+publication: Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging
+publication_short: Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging
 
 abstract: Image inpainting refers to the restoration of an image with missing regions in a way that is not detectable by the observer. The inpainting regions can be of any size and shape. This is an ill-posed inverse problem that does not have a unique solution. In this work, we focus on learning-based image completion methods for multiple and diverse inpainting which goal is to provide a set of distinct solutions for a given damaged image. These methods capitalize on the probabilistic nature of certain generative models to sample various solutions that coherently restore the missing content. Along the chapter, we will analyze the underlying theory and analyze the recent proposals for multiple inpainting. To investigate the pros and cons of each method, we present quantitative and qualitative comparisons, on common datasets, regarding both the quality and the diversity of the set of inpainted solutions. Our analysis allows us to identify the most successful generative strategies in both inpainting quality and inpainting diversity. This task is closely related to the learning of an accurate probability distribution of images. Depending on the dataset in use, the challenges that entail the training of such a model will be discussed through the analysis.
 
