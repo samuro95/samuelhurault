@@ -1,5 +1,5 @@
 ---
-title: SSVM 2023 (Best PhD paper award)
+title: Interfacing Bayesian Statistics, Machine Learning, Applied Analysis, and Blind and Semi-Blind Imaging Inverse Problems
 
 event: Interfacing Bayesian Statistics, Machine Learning, Applied Analysis, and Blind and Semi-Blind Imaging Inverse Problems (2023)
 event_url: https://www.icms.org.uk/workshops/2023/interfacing-bayesian-statistics-machine-learning-applied-analysis-and-blind-and-semi
