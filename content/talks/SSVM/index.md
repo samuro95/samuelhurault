@@ -32,7 +32,7 @@ doi: ''
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 image:
   caption: ''
