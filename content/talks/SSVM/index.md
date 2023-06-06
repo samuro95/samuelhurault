@@ -17,7 +17,6 @@ featured: false
 authors: []
 tags: []
 
-links: ''
 url_code: ''
 url_pdf: 'https://arxiv.org/pdf/2301.13731.pdf'
 url_slides: 'https://plmbox.math.cnrs.fr/lib/ed4934c0-7d8e-4b54-bac0-250fc0037f17/file/SSVM.pdf'
