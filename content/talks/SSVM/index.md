@@ -20,7 +20,7 @@ event_url: https://events.unibo.it/ssvm2023
 
 location: Sardaigna, Italy
 
-# summary: Oral presentation at *SSVM 2023*
+summary: Oral presentation at *SSVM 2023*
 # publication: In *Scale Space and Variational Methods in Computer Vision (2023)*
 # publication_short: In *SSVM 2023*
 
