@@ -4,7 +4,7 @@ title: ICLR 2021
 event: International Conference on Learning Representations (2021)
 event_url: https://iclr.cc/virtual/2022/poster/6192
 
-location: Sardaigna, Italy
+location: Virtual
 
 summary: Poster presentation *Gradient Step Denoiser for convergent Plug-and-Play*
 
@@ -30,6 +30,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: 'https://iclr.cc/virtual/2022/poster/6192'
+url_poster: 'https://plmbox.math.cnrs.fr/smart-link/aa23fa69-a68c-40aa-97f7-59bb9d0b4ef9/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

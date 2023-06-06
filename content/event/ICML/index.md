@@ -1,14 +1,14 @@
 ---
-title: SSVM 2023 (Best PhD paper award)
+title: ICML 2022 
 
-event: Scale Space and Variational Methods in Computer Vision (2023)
-event_url: https://events.unibo.it/ssvm2023
+event: The Thirty-ninth International Conference on Machine Learning (2022)
+event_url: https://icml.cc/virtual/2022/poster/18135
 
-location: Sardaigna, Italy
+location: Baltimore, USA
 
-summary: Oral presentation *A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser*
+summary: Poster presentation *Proximal Denoiser for Convergent Plug-and-Play Optimization with Nonconvex Regularization*
 
-abstract: This paper presents a new convergent Plug-and-Play (PnP) algorithm. PnP methods are efficient iterative algorithms for solving image inverse problems formulated as the minimization of the sum of a data-fidelity term and a regularization term. PnP methods perform regularization by plugging a pre-trained denoiser in a proximal algorithm, such as Proximal Gradient Descent (PGD). To ensure convergence of PnP schemes, many works study specific parametrizations of deep denoisers. However, existing results require either unverifiable or suboptimal hypotheses on the denoiser, or assume restrictive conditions on the parameters of the inverse problem. Observing that these limitations can be due to the proximal algorithm in use, we study a relaxed version of the PGD algorithm for minimizing the sum of a convex function and a weakly convex one. When plugged with a relaxed proximal denoiser, we show that the proposed PnP-αPGD algorithm converges for a wider range of regularization parameters, thus allowing more accurate image restoration.
+abstract: "Plug-and-Play (PnP) methods solve ill-posed inverse problems through iterative proximal algorithms by replacing a proximal operator by a denoising operation. When applied with deep neural network denoisers, these methods have shown state-of-the-art visual performance for image restoration problems. However, their theoretical convergence analysis is still incomplete. Most of the existing convergence results consider nonexpansive denoisers, which is non-realistic, or limit their analysis to strongly convex data-fidelity terms in the inverse problem to solve. Recently, it was proposed to train the denoiser as a gradient descent step on a functional parameterized by a deep neural network. Using such a denoiser guarantees the convergence of the PnP version of the Half-Quadratic-Splitting (PnP-HQS) iterative algorithm. In this paper, we show that this gradient denoiser can actually correspond to the proximal operator of another scalar function. Given this new result, we exploit the convergence theory of proximal algorithms in the nonconvex setting to obtain convergence results for PnP-PGD (Proximal Gradient Descent) and PnP-ADMM (Alternating Direction Method of Multipliers). When built on top of a smooth gradient denoiser, we show that PnP-PGD and PnP-ADMM are convergent and target stationary points of an explicit functional. These convergence results are confirmed with numerical experiments on deblurring, super-resolution and inpainting."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,8 +28,9 @@ featured: false
 links:
 url_code: ''
 url_pdf: ''
-url_slides: 'https://plmbox.math.cnrs.fr/lib/ed4934c0-7d8e-4b54-bac0-250fc0037f17/file/SSVM.pdf'
-url_video: ''
+url_slides: ''
+url_video: 'https://slideslive.cz/38983529/proximal-denoiser-for-convergent-plugandplay-optimization-with-nonconvex-regularization?ref=recommended'
+usl_poster: https://plmbox.math.cnrs.fr/smart-link/1da62bdf-bb53-4584-8a60-414d7a531326/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
