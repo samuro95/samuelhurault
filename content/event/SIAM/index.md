@@ -11,7 +11,7 @@ summary: contributed talk *Gradient Step Denoiser for convergent Plug-and-Play*
 abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-23'
+date: '2022-05-23'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
