@@ -4,14 +4,14 @@ title: SIAM 2022 Conference on Imaging Science
 event: SIAM 2022 Conference on Imaging Science
 event_url: https://evoq-eval.siam.org/conferences/cm/conference/is22
 
-location: Sardaigna, Italy
+location: Virtual
 
 summary: contributed talk *Gradient Step Denoiser for convergent Plug-and-Play*
 
 abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-23'
+date: '2022-03-21'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
