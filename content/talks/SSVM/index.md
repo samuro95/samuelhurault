@@ -1,6 +1,34 @@
 ---
 title: 'A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser'
 
+authors:
+  -
+  - 
+  - 
+# Author notes (optional)
+author_notes:
+  - 
+  - 
+
+date: '2021-10-07T00:00:00Z'
+doi: ''
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: false
+
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: true
+
+projects: []
+
+slides: ""
+---
+
+
 # event: Scale Space and Variational Methods in Computer Vision (2023)
 # event_url: https://events.unibo.it/ssvm2023
 
