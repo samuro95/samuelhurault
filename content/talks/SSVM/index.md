@@ -15,19 +15,11 @@ event_url: https://events.unibo.it/ssvm2023
 
 location: Sardaigna, Italy
 
-summary: Oral presentation at *SSVM 2023*
+# summary: Oral presentation at *SSVM 2023*
 
 abstract: This paper presents a new convergent Plug-and-Play (PnP) algorithm. PnP methods are efficient iterative algorithms for solving image inverse problems formulated as the minimization of the sum of a data-fidelity term and a regularization term. PnP methods perform regularization by plugging a pre-trained denoiser in a proximal algorithm, such as Proximal Gradient Descent (PGD). To ensure convergence of PnP schemes, many works study specific parametrizations of deep denoisers. However, existing results require either unverifiable or suboptimal hypotheses on the denoiser, or assume restrictive conditions on the parameters of the inverse problem. Observing that these limitations can be due to the proximal algorithm in use, we study a relaxed version of the PGD algorithm for minimizing the sum of a convex function and a weakly convex one. When plugged with a relaxed proximal denoiser, we show that the proposed PnP-αPGD algorithm converges for a wider range of regularization parameters, thus allowing more accurate image restoration.
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
+date: '2030-05-23T15:00:00Z'
 
 url_code: ''
 url_pdf: 'https://arxiv.org/pdf/2301.13731.pdf'
