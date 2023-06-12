@@ -6,6 +6,7 @@ title: 'Convergent Bregman Plug-and-Play Image Restoration for Poisson Inverse P
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Ulugbek Kamilov
   - Arthur Leclaire
   - Nicolas Papadakis
 
@@ -44,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2306.03466.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
