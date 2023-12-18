@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: samuel.hurault at math.u-bordeaux.  
+  email: huraultsamuel@gmail.com
   address:
     street: 351 cours de la libération
     city: Talence
