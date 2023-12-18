@@ -6,15 +6,13 @@ title: Samuel Hurault
 superuser: true
 
 # Role/position/tagline
-role: PhD student 
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institut de Mathematiques de Bordeaux
-    url: https://www.math.u-bordeaux.fr/imb/spip.php
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mathematics, Computer Vision, Machine Learning 
+bio: Mathematics, Machine Learning, Computer Vision
 
 # Interests to show in About widget
 interests:
@@ -43,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:samuel.hurault@math.u-bordeaux.fr'
+    link: 'mailto:huraultsamuel@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HuraultSamuel
@@ -65,12 +63,12 @@ social:
 #ink: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'samuel.hurault@math.u-bordeaux.fr'
+email: 'huraultsamuel@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am currently a Ph.D student at Université de Bordeaux co-supervised by Prof. Nicolas Papadakis and Dr. Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization. The main objecive of my PhD is to develop inovative deep denoising priors along with convergent optimization schemes for solving image inverse problems.
+I recently obtained my Ph.D from Université de Bordeaux, co-supervised by Prof. Nicolas Papadakis and Dr. Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization. The main objecive of my PhD was to develop inovative deep denoising priors along with convergent optimization schemes for solving image inverse problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
