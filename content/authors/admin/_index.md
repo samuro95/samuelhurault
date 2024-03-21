@@ -24,6 +24,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Applied Mathematics
+      institution: Université of Bordeaux, France
+      year: 2023
     - course: MRes MVA (Mathematiques, Vision, Apprentissage)
       institution: Université Paris-Saclay, France
       year: 2019
