@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:huraultsamuel@gmail.com'
+    link: 'mailto:samuel.hurault@ens.fr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HuraultSamuel
@@ -66,7 +66,7 @@ social:
 #ink: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'huraultsamuel@gmail.com'
+email: 'samuel.hurault@ens.fr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
