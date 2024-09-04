@@ -25,14 +25,14 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: huraultsamuel@gmail.com
+  email: samuel.hurault@ens.fr
   address:
-    street: 351 cours de la libération
-    city: Talence
-    postcode: '33400'
+    street: 45 Rue d'Ulm
+    city: Paris
+    postcode: '75005'
     country: France
     country_code: FR
-  directions: Office 205
+  directions: Centre Sciences des Données (CSD)
 
 design:
   columns: '2'
