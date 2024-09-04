@@ -72,6 +72,6 @@ email: 'huraultsamuel@gmail.com'
 highlight_name: true
 ---
 
-I recently obtained my Ph.D from Université de Bordeaux, co-supervised by Prof. Nicolas Papadakis and Dr. Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization. The main objecive of my PhD was to develop inovative deep denoising priors along with convergent optimization schemes for solving image inverse problems. I will start in April 2024 a postdoc at ENS Paris with Prof. Gabriel Peyré. 
+I am a postdoctoral researcher at ENS Paris working with with Gabriel Peyré. I obtained my Ph.D from Université de Bordeaux, co-supervised by Nicolas Papadakis and  Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization. The main objecive of my PhD was to develop inovative deep denoising priors along with convergent optimization schemes for solving image inverse problems. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
