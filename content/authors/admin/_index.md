@@ -9,7 +9,7 @@ superuser: true
 role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
-organizations: ENS Paris
+organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mathematics, Machine Learning, Computer Vision
