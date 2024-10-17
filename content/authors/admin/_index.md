@@ -72,6 +72,6 @@ email: 'samuel.hurault@ens.fr'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at ENS Paris working with with Gabriel Peyré. I obtained my Ph.D from Université de Bordeaux, co-supervised by Nicolas Papadakis and  Arthur Leclaire. My research interests include image restoration, generative modeling, nonconvex optimization. The main objective of my PhD was to develop inovative deep denoising priors along with convergent optimization schemes for solving image inverse problems. I am also one of the main developer of the Python library [DeepInv](https://github.com/deepinv/deepinv), which provides a unified framework for solving inverse problems using deep neural networks. 
+I am a postdoctoral researcher at ENS Paris, working with Gabriel Peyré. My research interests include image restoration, generative modeling, and nonconvex optimization. I obtained my Ph.D. from Université de Bordeaux, where I was co-supervised by Nicolas Papadakis and Arthur Leclaire. I got awarded the best PhD prize in Signal, Image, and Vision, from GRETSI, Club EEA, and GdR IASIS. I am also one of the main developers of the Python library [DeepInv](https://github.com/deepinv/deepinv), which provides a unified framework for solving inverse problems using deep neural networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
