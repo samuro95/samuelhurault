@@ -1,12 +1,12 @@
 ---
-title: 'A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser'
+title: 'Convergent Bregman Plug-and-Play Image Restoration for Poisson Inverse Problems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Antonin Chambolle
+  - Ulugbek Kamilov
   - Arthur Leclaire
   - Nicolas Papadakis
 
@@ -14,24 +14,23 @@ authors:
 author_notes:
   - 
   - 
-date: '2024-06-12T00:00:00Z'
+date: '2023-05-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-12T00:00:00Z'
+publishDate: '2023-05-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In * Journal of Mathematical Imaging and Vision*
-publication_short: In *JMIV*
+publication: In *Neural Information Processing Systems 2023*
+publication_short: In *Neurips 2023*
 
-abstract: In this work, we present new proofs of convergence for plug-and-play (PnP) algorithms. PnP methods are efficient iterative algorithms for solving image inverse problems where regularization is performed by plugging a pre-trained denoiser in a proximal algorithm, such as Proximal Gradient Descent (PGD) or Douglas–Rachford splitting (DRS). Recent research has explored convergence by incorporating a denoiser that writes exactly as a proximal operator. However, in these works, the corresponding PnP algorithm has the drawback to be necessarily run with stepsize equal to 1. The stepsize condition for nonconvex convergence of the proximal algorithm in use then translates to restrictive conditions on the regularization parameter of the inverse problem. This can severely degrade the restoration capacity of the algorithm. In this paper, we present two remedies for this limitation. First, we provide a novel convergence proof for PnP-DRS that does not impose any restriction on the regularization parameter. Second, we examine a relaxed version of the PGD algorithm that converges across a broader range of regularization parameters. Our experimental study, conducted on deblurring and super-resolution experiments, demonstrate that these two solutions both enhance the accuracy of image restoration.
-
+abstract: Plug-and-Play (PnP) methods are efficient iterative algorithms for solving ill-posed image inverse problems. PnP methods are obtained by using deep Gaussian denoisers instead of the proximal operator or the gradient-descent step within proximal algorithms. Current PnP schemes rely on data-fidelity terms that have either Lipschitz gradients or closed-form proximal operators, which is not applicable to Poisson inverse problems. Based on the observation that the Gaussian noise is not the adequate noise model in this setting, we propose to generalize PnP using the Bregman Proximal Gradient (BPG) method. BPG replaces the Euclidean distance with a Bregman divergence that can better capture the smoothness properties of the problem. We introduce the Bregman Score Denoiser specifically parametrized and trained for the new Bregman geometry and prove that it corresponds to the proximal operator of a nonconvex potential. We propose two PnP algorithms based on the Bregman Score Denoiser for solving Poisson inverse problems. Extending the convergence results of BPG in the nonconvex settings, we show that the proposed methods converge, targeting stationary points of an explicit global functional. Experimental evaluations conducted on various Poisson inverse problems validate the convergence results and showcase effective restoration performance.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2311.01216'
+url_pdf: 'https://arxiv.org/pdf/2306.03466.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
