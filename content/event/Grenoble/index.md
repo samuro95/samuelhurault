@@ -28,7 +28,7 @@ featured: false
 links:
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/resume.pdf'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
